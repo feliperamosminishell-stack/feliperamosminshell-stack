@@ -1,12 +1,12 @@
 <div align="center">
 
 ```ascii
-███╗   ███╗██╗███╗   ██╗██╗███╗   ██╗███████╗██╗  ██╗███████╗██╗     ██╗     
-████╗ ████║██║████╗  ██║██║████╗  ██║██╔════╝██║  ██║██╔════╝██║     ██║     
-██╔████╔██║██║██╔██╗ ██║██║██╔██╗ ██║███████╗███████║█████╗  ██║     ██║     
-██║╚██╔╝██║██║██║╚██╗██║██║██║╚██╗██║╚════██║██╔══██║██╔══╝  ██║     ██║     
-██║ ╚═╝ ██║██║██║ ╚████║██║██║ ╚████║███████║██║  ██║███████╗███████╗███████╗
-╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+███╗   ███╗██╗███╗   ██╗██╗███╗   ██╗██╗███████╗██╗  ██╗███████╗██╗     ██╗     
+████╗ ████║██║████╗  ██║██║████╗  ██║██╗██╔════╝██║  ██║██╔════╝██║     ██║     
+██╔████╔██║██║██╔██╗ ██║██║██╔██╗ ██║██╗███████╗███████║█████╗  ██║     ██║     
+██║╚██╔╝██║██║██║╚██╗██║██║██║╚██╗██║██╗╚════██║██╔══██║██╔══╝  ██║     ██║     
+██║ ╚═╝ ██║██║██║ ╚████║██║██║ ╚████║██╗███████║██║  ██║███████╗███████╗███████╗
+╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&lines=Building+my+own+shell;Parsing+%7C+Executing+%7C+Piping;42+School+Student" alt="Typing SVG" />
@@ -184,5 +184,5 @@ $ exit
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=feliperamosminishell&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
